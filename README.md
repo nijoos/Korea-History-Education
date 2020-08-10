@@ -1,4 +1,5 @@
 # Korea-History-Education
+<!doctype html>
 <html>
 <head>
   <title>한능검을 위한 한국사 개념정리 ver.2020</title>
